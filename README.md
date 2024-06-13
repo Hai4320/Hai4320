@@ -36,15 +36,18 @@ I'm **Hai**, a **Mobile App Developer** who is very passionate about deciphering
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <!-- ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) -->
 
-
 <br>
 
 <h3 style="border-bottom: 0.5px solid gray;margin-bottom: 15px;padding-bottom: 1px;font-weight: bold;">My Github stats 😍</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hai4320&theme=highcontrast)](https://git.io/streak-stats)
+[![Williams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hai4320&show_icons=true&theme=highcontrast)](https://github.com/Hai4320/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hai4320&layout=compact&theme=highcontrast)](https://github.com/Hai4320/github-readme-stats)
 
 <br>
 
 <h3 style="border-bottom: 0.5px solid gray;margin-bottom: 15px;padding-bottom: 1px;font-weight: bold;">Other info 🔥</h3>
 
-![](https://komarev.com/ghpvc/?username=williamssam&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Hai4320&style=for-the-badge)
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
