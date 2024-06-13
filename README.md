@@ -23,7 +23,8 @@ I'm **Hai**, a **Mobile App Developer** who is very passionate about deciphering
 <br>
 
 <h3 style="border-bottom: 0.5px solid gray;margin-bottom: 15px;padding-bottom: 1px;font-weight: bold;">Tools in my arsenal 🚀</h3>
-![Flutter](https://img.shields.io/badge/flutter%23323330.svg?style=for-the-badge&logo=flutter&logoColor=%23F7DF1E)
+
+![Flutter](https://img.shields.io/badge/flutter%23323330.svg?style=for-the-badge&logo=flutter&logoColor=%2302569B)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
