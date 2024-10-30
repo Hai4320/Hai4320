@@ -17,7 +17,7 @@ I'm **Hai**, a **Mobile App Developer** who is very passionate about deciphering
 &nbsp;
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hai4320/)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)]()
 &nbsp;
 
 <br>
