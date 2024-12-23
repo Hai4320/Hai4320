@@ -13,7 +13,7 @@ I'm **Hai**, a **Mobile App Developer** who is very passionate about deciphering
 
 <h3 style="border-bottom: 0.5px solid gray;margin-bottom: 15px;padding-bottom: 1px;font-weight: bold;">Contact 🤙</h3>
 
-[![My Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]()
+[![My Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://hari-github-io.vercel.app/)
 &nbsp;
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hai4320/)
 &nbsp;
