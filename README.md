@@ -17,7 +17,7 @@ I'm **Hai**, a **Mobile App Developer** who is very passionate about deciphering
 &nbsp;
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hai4320/)
 &nbsp;
-[![Linkedin](https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-h%E1%BA%A3i-362004265/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/duc-hai-362004265/)
 &nbsp;
 
 <br>
