@@ -30,6 +30,7 @@ I'm **Hai**, a **Mobile App Developer** who is very passionate about deciphering
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python)
+[![Swift](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python)](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
