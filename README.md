@@ -37,7 +37,6 @@ I'm **Hai**, a **Mobile App Developer** who is very passionate about deciphering
 
 <h3 style="border-bottom: 0.5px solid gray;margin-bottom: 15px;padding-bottom: 1px;font-weight: bold;">My Github stats 😍</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Hai4320&theme=highcontrast)](https://git.io/streak-stats)
 [![Williams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hai4320&show_icons=true&theme=highcontrast)](https://github.com/Hai4320/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hai4320&layout=compact&theme=highcontrast)](https://github.com/Hai4320/github-readme-stats)
 
